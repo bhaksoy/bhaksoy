@@ -1,6 +1,6 @@
 ### <p align="center"> Hellu 👋✨ </p>
 
-I am a Linguist who is developing myself in the field of IT. 
-I am currently training at a Front-End Bootcamp and I am also interested in the UI/UX Design. ⚡ 
+I am a Linguist who is advancing my skills in the field of IT. 
+I have recently successfully completed a Front-End Bootcamp by developing a project, and I am thrilled to be a part of the IT industry now! And I am also  interested in UI/UX Design.⚡ 
 
 
